@@ -12,7 +12,6 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Healthcare Patient Analysis Project
 Analyzed a healthcare patient dataset to identify trends in patient outcomes and evaluate hospital performance. Performed data cleaning, exploratory analysis, and visualization to uncover key insights, including variations in recovery rates across hospitals, the impact of patient demographics on outcomes, and factors contributing to longer hospital stays. Delivered actionable recommendations to improve care quality, optimize resource allocation, and support data-driven healthcare decision-making. [Tools used include powerBI]
@@ -24,7 +23,6 @@ Conducted sales analysis on the BlinkIT grocery dataset using Microsoft Excel by
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
 - **Data Visualization**: Power BI.
 - **Data Analysis**: Excel.
